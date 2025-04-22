@@ -58,8 +58,7 @@ Concevoir un **sismographe fonctionnel** capable de mesurer des vibrations verti
 
 ## 📸 Aperçu
 
-![Sismographe en fonctionnement](mesures_simsographe.png)
-![Sismographe en fonctionnement](mesures_simsographe.png)
-![Sismographe en fonctionnement](mesures_simsographe.png)
-![Sismographe en fonctionnement](mesures_simsographe.png)
-![Sismographe en fonctionnement](mesures_simsographe.png)
+![Sismographe en fonctionnement](oscillations_final.png)
+![Sismographe en fonctionnement](comparaison.png)
+![Sismographe en fonctionnement](BODE32.png)
+![Sismographe en fonctionnement](BODE62.png)
