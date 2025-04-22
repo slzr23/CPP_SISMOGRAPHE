@@ -1,5 +1,5 @@
 # 📁 Projet Sismographe - CPP 2024-2025
-![Photo du sismographe](mesures_simsographe.png)
+![Photo du sismographe](WhatsApp Image 2025-04-22 à 15.11.46_8885d3bb.jpg)
 ## 👥 Groupe A9
 - Nicola Tromelin  
 - Jules Guillaume  
