@@ -1,5 +1,5 @@
 # 📁 Projet Sismographe - CPP 2024-2025
-
+![Photo du sismographe](mesures_simsographe.png)
 ## 👥 Groupe A9
 - Nicola Tromelin  
 - Jules Guillaume  
@@ -58,4 +58,8 @@ Concevoir un **sismographe fonctionnel** capable de mesurer des vibrations verti
 
 ## 📸 Aperçu
 
+![Sismographe en fonctionnement](mesures_simsographe.png)
+![Sismographe en fonctionnement](mesures_simsographe.png)
+![Sismographe en fonctionnement](mesures_simsographe.png)
+![Sismographe en fonctionnement](mesures_simsographe.png)
 ![Sismographe en fonctionnement](mesures_simsographe.png)
